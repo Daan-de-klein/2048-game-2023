@@ -1,0 +1,16 @@
+C:\C#\PersonalProjects\2048Game\2048Game\bin\Debug\net6.0-windows\2048Game.exe
+C:\C#\PersonalProjects\2048Game\2048Game\bin\Debug\net6.0-windows\2048Game.deps.json
+C:\C#\PersonalProjects\2048Game\2048Game\bin\Debug\net6.0-windows\2048Game.runtimeconfig.json
+C:\C#\PersonalProjects\2048Game\2048Game\bin\Debug\net6.0-windows\2048Game.dll
+C:\C#\PersonalProjects\2048Game\2048Game\bin\Debug\net6.0-windows\2048Game.pdb
+C:\C#\PersonalProjects\2048Game\2048Game\obj\Debug\net6.0-windows\_2048Game.Form1.resources
+C:\C#\PersonalProjects\2048Game\2048Game\obj\Debug\net6.0-windows\2048Game.csproj.GenerateResource.cache
+C:\C#\PersonalProjects\2048Game\2048Game\obj\Debug\net6.0-windows\2048Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\PersonalProjects\2048Game\2048Game\obj\Debug\net6.0-windows\2048Game.AssemblyInfoInputs.cache
+C:\C#\PersonalProjects\2048Game\2048Game\obj\Debug\net6.0-windows\2048Game.AssemblyInfo.cs
+C:\C#\PersonalProjects\2048Game\2048Game\obj\Debug\net6.0-windows\2048Game.csproj.CoreCompileInputs.cache
+C:\C#\PersonalProjects\2048Game\2048Game\obj\Debug\net6.0-windows\2048Game.dll
+C:\C#\PersonalProjects\2048Game\2048Game\obj\Debug\net6.0-windows\refint\2048Game.dll
+C:\C#\PersonalProjects\2048Game\2048Game\obj\Debug\net6.0-windows\2048Game.pdb
+C:\C#\PersonalProjects\2048Game\2048Game\obj\Debug\net6.0-windows\2048Game.genruntimeconfig.cache
+C:\C#\PersonalProjects\2048Game\2048Game\obj\Debug\net6.0-windows\ref\2048Game.dll
